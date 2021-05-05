@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Coordinate.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Neighbour.h
+iostream
+-
+unordered_map
+-
+vector
+-
+list
+-
+cstdlib
+-
+Coordinate.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Coordinate.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Player.h
+Coordinate.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Coordinate.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/board.h
+iostream
+-
+list
+-
+vector
+-
+time.h
+-
+Coordinate.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Coordinate.h
+Player.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Player.h
+Neighbour.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/Neighbour.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/main.cpp
+board.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 1/Cephalopod/board.h
+
